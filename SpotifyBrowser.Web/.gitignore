@@ -1,0 +1,6 @@
+# Database
+SpotifyBrowser.db
+
+# Compiled javascripts and styles
+wwwroot/js/compiled
+wwwroot/css/compiled

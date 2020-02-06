@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyBrowser", "SpotifyBrowser.Web\SpotifyBrowser.csproj", "{E0CC3565-E588-462A-998B-066D384D605C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyBrowser.Tests", "SpotifyBrowser.Tests\SpotifyBrowser.Tests.csproj", "{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0CC3565-E588-462A-998B-066D384D605C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0CC3565-E588-462A-998B-066D384D605C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0CC3565-E588-462A-998B-066D384D605C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E0CC3565-E588-462A-998B-066D384D605C}.Debug|x64.Build.0 = Debug|Any CPU
+		{E0CC3565-E588-462A-998B-066D384D605C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E0CC3565-E588-462A-998B-066D384D605C}.Debug|x86.Build.0 = Debug|Any CPU
+		{E0CC3565-E588-462A-998B-066D384D605C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0CC3565-E588-462A-998B-066D384D605C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0CC3565-E588-462A-998B-066D384D605C}.Release|x64.ActiveCfg = Release|Any CPU
+		{E0CC3565-E588-462A-998B-066D384D605C}.Release|x64.Build.0 = Release|Any CPU
+		{E0CC3565-E588-462A-998B-066D384D605C}.Release|x86.ActiveCfg = Release|Any CPU
+		{E0CC3565-E588-462A-998B-066D384D605C}.Release|x86.Build.0 = Release|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Debug|x64.Build.0 = Debug|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Debug|x86.Build.0 = Debug|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Release|x64.ActiveCfg = Release|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Release|x64.Build.0 = Release|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Release|x86.ActiveCfg = Release|Any CPU
+		{08A52D08-9DBF-4912-B692-4CD6C0F0E7D7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
